@@ -1,0 +1,1 @@
+export default BUY_CAKE = 'BUY_CAKE';
